@@ -487,6 +487,4 @@ PRODUCT_PACKAGES += \
     qcnvitems \
     qcrilhook \
     BqCamera
-    
-    #ANTPlusPluginsService \
-    #ANTRadioService \
+
