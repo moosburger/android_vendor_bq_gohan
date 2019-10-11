@@ -123,7 +123,7 @@ include $(BUILD_PREBUILT)
 include $(CLEAR_VARS)
 LOCAL_MODULE := BqCamera
 LOCAL_MODULE_OWNER := bq
-LOCAL_SRC_FILES := proprietary/priv-app/BqCamera/BqCamera.apk
+LOCAL_SRC_FILES := proprietary/app/BqCamera/BqCamera.apk
 LOCAL_CERTIFICATE := platform
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_CLASS := APPS
