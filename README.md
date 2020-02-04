@@ -1,2 +1,2 @@
 # android_vendor_bq_gohan
-Version 1.0.0
+Version 1.0.1
