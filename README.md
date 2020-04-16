@@ -1,4 +1,5 @@
 # android_vendor_bq_gohan
-Version 1.1.0
+Version 1.1.1
 
-### Ims Files ans some more permissions
+### Ims Files and some more permissions
+### Bluetooth Driver from Stock
